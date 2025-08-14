@@ -1,0 +1,8 @@
+Form Autofill	formautofill@mozilla.org	1.0.1		
+Picture-In-Picture	pictureinpicture@mozilla.org	1.0.0		
+Firefox Screenshots	screenshots@mozilla.org	39.0.1	activeTab|downloads|tabs|storage|notifications|clipboardWrite|contextMenus|mozillaAddons|telemetry	
+WebCompat Reporter	webcompat-reporter@mozilla.org	2.1.0	tabs	
+Web Compatibility Interventions	webcompat@mozilla.org	133.5.0	mozillaAddons|scripting|tabs|webNavigation|webRequest|webRequestBlocking	
+Add-ons Search Detection	addons-search-detection@mozilla.com	2.0.0	telemetry|webRequest|webRequestBlocking	
+Wappalyzer - Technology profiler	wappalyzer@crunchlabz.com	6.10.85	cookies|storage|tabs|webRequest	
+Dark Reader	addon@darkreader.org	4.9.110	alarms|contextMenus|storage|tabs|theme	
